@@ -1,0 +1,11 @@
+{
+  "name": "leaflet-nightmare",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Caroline Glassberg-Powell",
+  "license": "MIT",
+  "description": "Generate leaflet static maps server side with nightmare (phantomjs).",
+  "dependencies": {
+    "nightmare": "^1.8.2"
+  }
+}
