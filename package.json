@@ -1,10 +1,14 @@
 {
   "name": "leaflet-nightmare",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "index.js",
   "author": "Caroline Glassberg-Powell",
   "license": "MIT",
   "description": "Generate leaflet static maps server side with nightmare (phantomjs).",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cazgp/leaflet-nightmare.git"
+  },
   "dependencies": {
     "nightmare": "^1.8.2"
   }
